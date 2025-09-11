@@ -1,0 +1,138 @@
+body {
+    front-family: Arial, Helvetica,sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+
+header {
+    background-color: greenyellow;
+    color: red;
+    text-align: center;
+    padding: 1em;
+}
+
+nav {
+    margin: 10px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul {
+    list-style-type: disc;
+    padding: 20px;
+    margin: 10px;
+}
+
+div {
+    text-align: right;
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: justify;
+    background-color: yellow;
+    padding: 0;
+    margin: 0;
+}
+main{
+    margin: 20px;
+}
+li{
+    list-style-type: decimal-leading-zero;
+}
+footer{
+    background-color: #a8dadc;
+    color: blueviolet;
+    text-align: center;
+    padding: 1em;
+}
+table{
+     border-collapse: collapse; 
+     width: 100%;
+     margin: 20px auto;
+}
+th, td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+td{
+    text-align: center;
+    vertical-align: middle;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+th{
+    background-color: #f2f2f2;
+}
+img{
+    max-width: 80%;
+    height: 100px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: 1px 3px 16px 6px black;
+}
+nav{
+    margin: 10px;
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+nav ul{
+    list-style-type: disc;
+    padding: 20px;
+    margin: 10px;
+    margin-right: 20px;
+}
+div{
+    text-align: right;
+    background-color: #92d40a;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+}
+header{
+    background-color: #d4a90a;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3em;
+    color: #101b53;
+    margin-bottom: 20px;
+    text-align: center;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    color: #056734;
+    margin-bottom: 20px;
+    text-align: center;
+}
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: #080808;
+    text-align: justify;
+    line-height: 1.6em; /* atributo para espacio interlineado*/
+    background-color: rgb(242, 236, 236);
+    margin: 10px 10px;
+    padding: 0;
+}
